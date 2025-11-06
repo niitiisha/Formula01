@@ -43,7 +43,7 @@ export default function Home() {
       <div className={styles.centre}>
         <Image
           className={styles.logo}
-          src="/logo.jpg"
+          src="/image01.png"
           alt="Formula-1 Logo"
           width={600}
           height={200}
