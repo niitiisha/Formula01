@@ -10,7 +10,7 @@ export default function Home() {
     {/* <Nav/> */}
     <Head>
       <title>Formula 1</title>
-      <link rel= "icon" href="logo.jpg"/>
+      <link rel= "icon" href="image01.png"/>
     </Head>
     <main className={styles.main}>
       <div className={styles.description}>
@@ -20,7 +20,7 @@ export default function Home() {
         </p>
         <div>
           <a
-            href="https://www.linkedin.com/in/kanika-gyamlani-401679252"
+            href="https://www.linkedin.com/in/nitisha-k-b45702261/"
             target="_blank"
             rel="noopener noreferrer"
           >
