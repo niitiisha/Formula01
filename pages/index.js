@@ -33,7 +33,7 @@ export default function Home() {
               height={24}
               priority
             />
-            Kanika Gyamlani 
+            Nitisha Khargakharate 
           </a>
         </div>
       </div>
